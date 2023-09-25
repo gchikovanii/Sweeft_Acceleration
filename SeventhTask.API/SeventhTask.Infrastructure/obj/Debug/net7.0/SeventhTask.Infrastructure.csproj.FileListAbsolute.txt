@@ -1,0 +1,17 @@
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\bin\Debug\net7.0\SeventhTask.Infrastructure.deps.json
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\bin\Debug\net7.0\SeventhTask.Infrastructure.runtimeconfig.json
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\bin\Debug\net7.0\SeventhTask.Infrastructure.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\bin\Debug\net7.0\SeventhTask.Infrastructure.pdb
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\bin\Debug\net7.0\SeventhTask.Domain.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\bin\Debug\net7.0\SeventhTask.Domain.pdb
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.AssemblyInfo.cs
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.csproj.CopyComplete
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\refint\SeventhTask.Infrastructure.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.pdb
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\SeventhTask.Infrastructure.genruntimeconfig.cache
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Infrastructure\obj\Debug\net7.0\ref\SeventhTask.Infrastructure.dll

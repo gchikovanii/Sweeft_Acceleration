@@ -1,0 +1,11 @@
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\bin\Debug\net7.0\SeventhTask.Domain.deps.json
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\bin\Debug\net7.0\SeventhTask.Domain.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\bin\Debug\net7.0\SeventhTask.Domain.pdb
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\SeventhTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\SeventhTask.Domain.AssemblyInfoInputs.cache
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\SeventhTask.Domain.AssemblyInfo.cs
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\SeventhTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\SeventhTask.Domain.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\refint\SeventhTask.Domain.dll
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\SeventhTask.Domain.pdb
+C:\Users\gchik\Desktop\SeventhTask.API\SeventhTask.Domain\obj\Debug\net7.0\ref\SeventhTask.Domain.dll
