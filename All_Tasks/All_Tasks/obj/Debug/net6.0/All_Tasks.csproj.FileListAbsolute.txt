@@ -1,0 +1,14 @@
+D:\Tasks\All_Tasks\All_Tasks\bin\Debug\net6.0\All_Tasks.exe
+D:\Tasks\All_Tasks\All_Tasks\bin\Debug\net6.0\All_Tasks.deps.json
+D:\Tasks\All_Tasks\All_Tasks\bin\Debug\net6.0\All_Tasks.runtimeconfig.json
+D:\Tasks\All_Tasks\All_Tasks\bin\Debug\net6.0\All_Tasks.dll
+D:\Tasks\All_Tasks\All_Tasks\bin\Debug\net6.0\All_Tasks.pdb
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.AssemblyInfoInputs.cache
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.AssemblyInfo.cs
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.csproj.CoreCompileInputs.cache
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.dll
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\refint\All_Tasks.dll
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.pdb
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\All_Tasks.genruntimeconfig.cache
+D:\Tasks\All_Tasks\All_Tasks\obj\Debug\net6.0\ref\All_Tasks.dll
