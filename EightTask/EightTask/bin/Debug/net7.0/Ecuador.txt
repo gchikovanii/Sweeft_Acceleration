@@ -1,0 +1,5 @@
+Region:Americas
+Subregion: South America
+Population: 17643060
+Area: 276841
+latlng: -2 -77.5 

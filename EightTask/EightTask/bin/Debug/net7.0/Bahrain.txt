@@ -1,0 +1,5 @@
+Region:Asia
+Subregion: Western Asia
+Population: 1701583
+Area: 765
+latlng: 26 50.55 

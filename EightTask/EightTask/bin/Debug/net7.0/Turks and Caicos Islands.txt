@@ -1,0 +1,5 @@
+Region:Americas
+Subregion: Caribbean
+Population: 38718
+Area: 948
+latlng: 21.75 -71.58333333 

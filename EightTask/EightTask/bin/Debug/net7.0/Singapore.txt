@@ -1,0 +1,5 @@
+Region:Asia
+Subregion: South-Eastern Asia
+Population: 5685807
+Area: 710
+latlng: 1.36666666 103.8 

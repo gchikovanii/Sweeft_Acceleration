@@ -1,0 +1,5 @@
+Region:Africa
+Subregion: Western Africa
+Population: 13132792
+Area: 245857
+latlng: 11 -10 

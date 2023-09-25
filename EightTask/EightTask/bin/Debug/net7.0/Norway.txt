@@ -1,0 +1,5 @@
+Region:Europe
+Subregion: Northern Europe
+Population: 5379475
+Area: 323802
+latlng: 62 10 

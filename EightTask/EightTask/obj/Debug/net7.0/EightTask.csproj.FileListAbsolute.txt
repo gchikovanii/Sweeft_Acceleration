@@ -1,0 +1,17 @@
+D:\Tasks\EightTask\EightTask\bin\Debug\net7.0\EightTask.exe
+D:\Tasks\EightTask\EightTask\bin\Debug\net7.0\EightTask.deps.json
+D:\Tasks\EightTask\EightTask\bin\Debug\net7.0\EightTask.runtimeconfig.json
+D:\Tasks\EightTask\EightTask\bin\Debug\net7.0\EightTask.dll
+D:\Tasks\EightTask\EightTask\bin\Debug\net7.0\EightTask.pdb
+D:\Tasks\EightTask\EightTask\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.csproj.AssemblyReference.cache
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.AssemblyInfoInputs.cache
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.AssemblyInfo.cs
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.csproj.CoreCompileInputs.cache
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.csproj.CopyComplete
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.dll
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\refint\EightTask.dll
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.pdb
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\EightTask.genruntimeconfig.cache
+D:\Tasks\EightTask\EightTask\obj\Debug\net7.0\ref\EightTask.dll

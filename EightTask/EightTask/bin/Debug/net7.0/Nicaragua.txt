@@ -1,0 +1,5 @@
+Region:Americas
+Subregion: Central America
+Population: 6624554
+Area: 130373
+latlng: 13 -85 

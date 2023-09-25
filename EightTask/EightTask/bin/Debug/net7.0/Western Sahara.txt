@@ -1,0 +1,5 @@
+Region:Africa
+Subregion: Northern Africa
+Population: 510713
+Area: 266000
+latlng: 24.5 -13 

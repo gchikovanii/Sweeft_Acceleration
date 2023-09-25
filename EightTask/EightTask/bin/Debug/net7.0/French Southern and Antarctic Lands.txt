@@ -1,0 +1,5 @@
+Region:Antarctic
+Subregion: 
+Population: 400
+Area: 7747
+latlng: -49.25 69.167 

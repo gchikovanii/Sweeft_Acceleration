@@ -1,0 +1,5 @@
+Region:Americas
+Subregion: North America
+Population: 128932753
+Area: 1964375
+latlng: 23 -102 

@@ -1,0 +1,5 @@
+Region:Asia
+Subregion: Central Asia
+Population: 18754440
+Area: 2724900
+latlng: 48.0196 66.9237 

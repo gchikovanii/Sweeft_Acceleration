@@ -1,0 +1,5 @@
+Region:Oceania
+Subregion: Australia and New Zealand
+Population: 25687041
+Area: 7692024
+latlng: -27 133 

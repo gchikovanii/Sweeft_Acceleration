@@ -1,0 +1,5 @@
+Region:Oceania
+Subregion: Polynesia
+Population: 1470
+Area: 260
+latlng: -19.03333333 -169.86666666 

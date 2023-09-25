@@ -1,0 +1,5 @@
+Region:Europe
+Subregion: Western Europe
+Population: 39244
+Area: 2.02
+latlng: 43.73333333 7.4 
