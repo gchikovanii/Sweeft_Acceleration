@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Snake.BackgroundAggregate
+namespace Snake.Shared
 {
     public struct Pixel
     {
-        public Pixel(int x, int y,ConsoleColor color)
+        public Pixel(int x, int y, ConsoleColor color)
         {
             X = x;
             Y = y;

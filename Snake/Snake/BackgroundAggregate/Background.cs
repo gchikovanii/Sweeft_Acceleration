@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Snake.Shared;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +10,8 @@ namespace Snake.BackgroundAggregate
     public static class Background
     {
 
-        private const int _mapWidth = 20;
-        private const int _mapHeight = 10;
+        private const int _mapWidth = 30;
+        private const int _mapHeight = 20;
         private const ConsoleColor _color = ConsoleColor.Blue;
         public static void DrawBorder()
         {

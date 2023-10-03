@@ -1,10 +1,5 @@
-﻿using Snake.BackgroundAggregate;
-using Snake.Datas;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Snake.Datas;
+using Snake.Shared;
 
 namespace Snake
 {
@@ -13,16 +8,18 @@ namespace Snake
         public Pixel Head { get; set; }
 
         public Queue<Pixel> Body = new Queue<Pixel>();
-        private const ConsoleColor _headColor = ConsoleColor.Green;
-        private const ConsoleColor _bodyColor = ConsoleColor.Yellow;
+        private readonly ConsoleColor _headColor;
+        private readonly ConsoleColor _bodyColor;
         private int _bodyLength = 3;
-       
-        public Snakes()
+
+        public Snakes(int initialX, int initialY, ConsoleColor headColor, ConsoleColor bodyColor,int bodyLength =3)
         {
-            Head = new Pixel(15, 5, _headColor);
-            for (int i = _bodyLength; i >=0; i--)
+            _headColor = headColor;
+            _bodyColor = bodyColor;
+            Head = new Pixel(initialX,initialY, _headColor);
+            for (int i = _bodyLength; i >= 0; i--)
             {
-                Body.Enqueue(new Pixel(Head.X - i - 1, 5, _bodyColor));
+                Body.Enqueue(new Pixel(Head.X - i - 1, initialY, _bodyColor));
             }
             DrawSnake();
         }
@@ -46,12 +43,12 @@ namespace Snake
         public void Move(Direction dir, bool eat = false)
         {
             Clear();
-            Body.Enqueue(new Pixel(Head.X, Head.Y,_headColor));
-            if (eat)
+            Body.Enqueue(new Pixel(Head.X, Head.Y, _bodyColor));
+            if (!eat)
                 Body.Dequeue();
             Head = dir switch
             {
-                Direction.Up => new Pixel(Head.X, Head.Y - 1,_headColor),
+                Direction.Up => new Pixel(Head.X, Head.Y - 1, _headColor),
                 Direction.Down => new Pixel(Head.X, Head.Y + 1, _headColor),
                 Direction.Right => new Pixel(Head.X + 1, Head.Y, _headColor),
                 Direction.Left => new Pixel(Head.X - 1, Head.Y, _headColor),
